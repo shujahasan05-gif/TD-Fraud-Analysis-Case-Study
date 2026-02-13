@@ -11,6 +11,9 @@ Due to the large size of the underlying transaction dataset and .pbix file (~500
 Download the Full Interactive .pbix File via Google Drive
 https://drive.google.com/file/d/1K1_3Cn_ruZgjNOG5M1Picpt9H8ejZbce/view?usp=sharing
 
+Download the Full Interactive .pbix File via One Drive
+Shuja_Hasan_TD_Fraud_Analysis
+
 # Key Technical Features:
 **Custom DAX:** Engineered "Relationship Tiers" based on account tenure and transaction "Amount Bins".
 **Advanced Visuals:** Integrated report-page tooltips and a risk-based matrix heatmap.
